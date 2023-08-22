@@ -1,5 +1,5 @@
 \name{gTestsMulti}
-\alias{gTestsMulti}
+\alias{gTestsMulti-package}
 \title{New graph-based multi-sample tests}
 \description{This package can be used to determine whether multiple samples are from the same distribution.}
 \author{

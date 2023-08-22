@@ -21,7 +21,7 @@ gtestsmulti(E, data_list, perm=0)
   \item{S_A_perm}{The permutation p-value of \eqn{S^{A}} when argument `perm' is positive.}
 }
 \seealso{
-  \code{\link{gTestsMulti}}
+  \code{\link{gTestsMulti-package}}
 }
 \examples{
 
